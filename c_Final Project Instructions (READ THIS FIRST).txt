@@ -1,0 +1,17 @@
+Step 1:
+-Download "a_Final Project Data.zip"
+-Download "b_Final Project Notebook.ipynb"
+
+Step 2:
+-Unzip "a_Final Project Data.zip" and extract file (It should have eleven .xlsx files and two .geojson files)
+-Load "b_Final Project Notebook.ipynb" into said file
+
+Step 3:
+-Install the necessary libraries using command prompt
+(pip install openpyxl pandas seaborn matplotlib geopandas folium plotly)
+(pip install --upgrade nbformat)
+
+Step 4:
+-Open "b_Final Project Notebook.ipynb" in visual studio code and run all cells
+
+Please email "william.rachmadi@gwu.edu" should the jupyter notebook or its interactive box plots, bar graphs, and choropleth maps fail to work.
